@@ -15,15 +15,25 @@ His research interests are:
 
 If you are interested in his research, please feel free to contact him at: fanzipei@iis.u-tokyo.ac.jp or fanzipei@gmail.com
 
+## Projects
+
+1. Decentralized Human Mobility Modeling
+
+2. Urban Data Visualization
+
+3. Large-scale Human Mobility Prediction
+
+4. Irregular Human Mobility Modeling
+
 ## Publications
 
 * **Zipei Fan**, Xuan Song, Renhe Jiang, Quanjun Chen, Ryosuke Shibasaki. 2019. "Decentralized Attention-based Personalized Human Mobility Prediction". Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 3, 4, Article 133 (December 2019)
 
 * **Zipei Fan**, Xuan Song, Quanjun Chen, Renhe Jiang, Kota Tsubouchi, Ryosuke Shibasaki. 2019. "Deep Multiple Instance Learning for Human Trajectory Identification". In Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL '19)
 
-* **Z. Fan**, X. Song, T. Xia, R. Jiang, Q. Chen, R. Shibasaki and H. Kaneda, “Online Deep Ensemble Learning for Predicting Citywide Human Mobility”, Proc. of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) (UbiComp 2018), 2018.
+* **Z. Fan**, X. Song, T. Xia, R. Jiang, Q. Chen, R. Shibasaki and H. Kaneda, “Online Deep Ensemble Learning for Predicting Citywide Human Mobility”, Proc. of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) (UbiComp 2018).
 
-* **Zipei Fan**, Xuan Song, Ryosuke Shibasaki, Tao Li, Hodaka Kaneda, “CityCoupling: bridging intercity human mobility”, Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing
+* **Zipei Fan**, Xuan Song, Ryosuke Shibasaki, Tao Li, Hodaka Kaneda, “CityCoupling: bridging intercity human mobility”, Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing, 2016
 
 * **Zipei Fan**, Ayumi Arai, Xuan Song, Apichon Witayangkurn, Hiroshi Kanasugi, Ryosuke Shibasaki, “A Collaborative Filtering Approach to Citywide Human Mobility Completion from Sparse Call Records”, Proc. of the 25th International Joint Conference on Artificial Intelligence (IJCAI), 2016.
 
