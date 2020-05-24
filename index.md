@@ -4,7 +4,7 @@ title-heading: false
 
 # Zipei Fan's Homepage
 
-Zipei Fan is currently a project assistant professor in Center for Spatial Information Science, the University of Tokyo.
+Zipei Fan is currently a project assistant professor in Center for Spatial Information Science, the University of Tokyo. He was graduated from Computer Science and Engineering, Beihang University in 2012, and obtain the master and doctoral degree in Civil Engineering, the University of Tokyo in 2014 and 2017.
 
 His research interests are:
 
