@@ -1,3 +1,7 @@
+---
+title-heading: false
+---
+
 ## Zipei Fan's Homepage
 
 You can use the [editor on GitHub](https://github.com/fanzipei/fanzipei.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
