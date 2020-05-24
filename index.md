@@ -18,15 +18,19 @@ If you are interested in his research, please feel free to contact him at: fanzi
 ## Projects
 
 1. Decentralized Human Mobility Modeling
+
    <img src="/assets/images/federated_prediction.jpg" width="250px">
 
 2. Urban Data Visualization
+
    <img src="/assets/images/vis_system_intercity.png" width="250px">
 
 3. Large-scale Human Mobility Prediction
+
    <img src="/assets/images/gathering.jpg" width="250px">
 
 4. Irregular Human Mobility Modeling
+
    <img src="assets/images/ensemble_prediction.jpeg" width="250px">
 
 ## Publications
