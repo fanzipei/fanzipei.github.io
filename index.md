@@ -35,6 +35,10 @@ If you are interested in his research, please feel free to contact him at: fanzi
 
 ## Publications
 
+- **Z Fan**, X Song, Y Liu, Z Zhang, C Yang, Q Chen, R Jiang, R Shibasaki, "Human mobility based individual-level epidemic simulation platform", SIGSPATIAL Special 12 (1), 34-40
+
+- **Z Fan**, X Song, Q Chen, R Jiang, R Shibasaki, K Tsubouchi, "Trajectory fingerprint: one-shot human trajectory identification using Siamese network", CCF Transactions on Pervasive Computing and Interaction 2 (2), 113-125
+
 - **Zipei Fan**, Xuan Song, Renhe Jiang, Quanjun Chen, Ryosuke Shibasaki. 2019. "Decentralized Attention-based Personalized Human Mobility Prediction". Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 3, 4, Article 133 (December 2019)
 
 - **Zipei Fan**, Xuan Song, Quanjun Chen, Renhe Jiang, Kota Tsubouchi, Ryosuke Shibasaki. 2019. "Deep Multiple Instance Learning for Human Trajectory Identification". In Proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL '19)
@@ -49,7 +53,15 @@ If you are interested in his research, please feel free to contact him at: fanzi
 
 - **Zipei Fan**, Xuan Song, Ryosuke Shibasaki, “CitySpectrum: A Non-negative Tensor Factorization Approach”, Proc. of ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), pp. 5-14, 2014.
 
+- W Yuan, **Z Fan**, X Yuan, J Gong, R Shibasaki, "Unsupervised Multi-Constraint Deep Neural Network for Dense Image Matching", The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume 43, pp. 163-167, 2020.
+
 - Xiaodan Shi, Xiaowei Shao, **Zipei Fan**, Renhe Jiang, Haoran Zhang, Zhiling Guo, Guangming Wu, Wei Yuan, Ryosuke Shibasaki, "Multimodal Interaction-Aware Trajectory Prediction in Crowded Space", Proc. of Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2020.
+
+- Ayumi Arai, Apichon Witayangkurn, Hiroshi Kanasugi, **Zipei Fan**, Wataru Ohira, Silvino Pedro, "Building a data ecosystem for using telecom data to inform the COVID-19 response efforts", 2020
+
+- S Miyazawa, X Song, R Jiang, **Z Fan**, R Shibasaki, T Sato, "CITY-SCALE HUMAN MOBILITY PREDICTION MODEL BY INTEGRATING GNSS TRAJECTORIES AND SNS DATA USING LONG SHORT-TERM MEMORY", ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume 4, pp. 87-94, 2020
+
+- Z Zhang, C Yang, **Z Fan**, R Jiang, Q Chen, X Song, R Shibasaki, "EpiMob: Interactive Visual Analytics of Citywide Human Mobility Restrictions for Epidemic Control", arXiv preprint arXiv:2007.03180
 
 - Q. Chen, X. Song, **Z. Fan**, T. Xia, H. Yamada and R. Shibasaki, "A Context-Aware Nonnegative Matrix Factorization Framework for Traffic Accident Risk Estimation via Heterogeneous Data," 2018 IEEE Conference on Multimedia Information Processing and Retrieval (MIPR), Miami, FL, 2018, pp. 346-351
 
