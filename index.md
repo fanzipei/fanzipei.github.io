@@ -35,6 +35,8 @@ If you are interested in his research, please feel free to contact him at: fanzi
 
 ## Publications
 
+- **Zipei Fan**, Xuan Song, Ryosuke Shibasaki, "Big Data-Driven Citywide Human Mobility Modeling for Emergency Management", Big Data in Emergency Management: Exploitation Techniques for Social and Mobile Data, Springer, Cham, 109-130.
+
 - **Z Fan**, X Song, Y Liu, Z Zhang, C Yang, Q Chen, R Jiang, R Shibasaki, "Human mobility based individual-level epidemic simulation platform", SIGSPATIAL Special 12 (1), 34-40
 
 - **Z Fan**, X Song, Q Chen, R Jiang, R Shibasaki, K Tsubouchi, "Trajectory fingerprint: one-shot human trajectory identification using Siamese network", CCF Transactions on Pervasive Computing and Interaction 2 (2), 113-125
@@ -54,6 +56,8 @@ If you are interested in his research, please feel free to contact him at: fanzi
 - **Zipei Fan**, Xuan Song, Ryosuke Shibasaki, “CitySpectrum: A Non-negative Tensor Factorization Approach”, Proc. of ACM International Joint Conference on Pervasive and Ubiquitous Computing (UbiComp), pp. 5-14, 2014.
 
 - W Yuan, **Z Fan**, X Yuan, J Gong, R Shibasaki, "Unsupervised Multi-Constraint Deep Neural Network for Dense Image Matching", The International Archives of Photogrammetry, Remote Sensing and Spatial Information Sciences, Volume 43, pp. 163-167, 2020.
+
+- Renhe Jiang, Quanjun Chen, Zekun Cai, **Zipei Fan**, Xuan Song, Kota Tsubouchi, Ryosuke Shibasaki, "Will You Go Where You Search? A Deep Learning Framework for Estimating User Search-and-Go Behavior", Neurocomputing, 2020
 
 - Xiaodan Shi, Xiaowei Shao, **Zipei Fan**, Renhe Jiang, Haoran Zhang, Zhiling Guo, Guangming Wu, Wei Yuan, Ryosuke Shibasaki, "Multimodal Interaction-Aware Trajectory Prediction in Crowded Space", Proc. of Thirty-Second AAAI Conference on Artificial Intelligence (AAAI), 2020.
 
